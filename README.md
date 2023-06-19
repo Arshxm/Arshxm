@@ -1,10 +1,14 @@
 ### Hi there 👋, Arsham Rezakhani
-#### Software Developer
+
 ![Software Developer](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)
 
 I'm a 18 Y/O Junior Flutter Developer and I really enjoy building Mobile apps, I worked with Kotlin for a while and then I switched to Flutter and I'm going to be honest, I really enjoy building app with this beautiful framework and its amazing language, dart that turned to my favorite .
 
-Skills: Dart / Flutter / Kotlin / Java
+## Skills and Experience 
+* 🎯Dart 
+* 🍃Flutter 
+* 📱Kotlin
+* 👑Java
 
 - 🔭 I’m currently working on Getting better and better  
 
