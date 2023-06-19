@@ -1,4 +1,6 @@
-### Hi there 👋, Arsham Rezakhani
+### Hi there 👋,
+
+## Arsham Rezakhani
 
 ![Software Developer](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)
 
@@ -10,7 +12,6 @@ I'm a 18 Y/O Junior Flutter Developer and I really enjoy building Mobile apps, I
 * 📱Kotlin
 * 👑Java
 
-- 🔭 I’m currently working on Getting better and better  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arshxm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arsham-rezakhani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18367582)  
