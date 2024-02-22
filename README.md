@@ -4,7 +4,7 @@
 
 ## Arsham Rezakhani
 
-I'm a 18 Y/O Junior Flutter Developer and I really enjoy building Mobile apps, I worked with Kotlin for a while and then I switched to Flutter and I'm going to be honest, I really enjoy building app with this beautiful framework and its amazing language, dart that turned to my favorite .
+I'm a 19 Y/O Junior Flutter Developer and I really enjoy building Mobile apps, I worked with Kotlin for a while and then I switched to Flutter and I'm going to be honest, I really enjoy building app with this beautiful framework and its amazing language, dart that turned to my favorite .
 
 ## Skills and Experience 
 * 🎯Dart 
