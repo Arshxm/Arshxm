@@ -4,7 +4,7 @@
 
 ## Arsham Rezakhani
 
-A 20 Y/O MidLevel Flutter Developer and I really do enjoy building Mobile apps, I worked with Kotlin for a while and then I switched to Flutter and I'm going to be honest, I really enjoy building app with this beautiful framework and its amazing language, dart that turned to my favorite .
+A 20 Y/O MidLevel Flutter Developer who enjoys building Mobile apps, worked with Kotlin for a while and then switched to Flutter and to be honest,so far enjoyed it a lot ,building app with this framework and its amazing language, dart that turned to my favorite .
 
 ## Skills and Experience 
 * 🎯Dart 
