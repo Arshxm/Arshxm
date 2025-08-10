@@ -10,7 +10,7 @@ A 20 Y/O MidLevel Flutter Developer who enjoys building Mobile apps, also a secu
 * 🎯Dart 
 * 🍃Flutter 
 * 📱Kotlin
-* 👑Java
+* 👑Golang
 
 
 
